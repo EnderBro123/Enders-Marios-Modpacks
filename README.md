@@ -1,3 +1,3 @@
 A simple empty repository used as an issue/bug tracker for Mario's and Ender's modpacks/projects.
 
-**NOTE:** Any PRs (Pull Requests) will be ignored and instantly closed.
+**NOTE:** Any PRs (Pull Requests) will be ignored and instantly closed. This is only foor an issue/bug tracker system.
