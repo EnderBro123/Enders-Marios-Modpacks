@@ -1,0 +1,19 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: "30 1 * * *"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Since this issue has gone inactive, a Stale label has been applied to your issue.'
+        stale-pr-message: 'Stale pull request message'
+        stale-issue-label: 'This Issue has gone inactive. Hopefully it will be looked at some time in the future.'
+        stale-pr-label: 'no-pr-activity'
