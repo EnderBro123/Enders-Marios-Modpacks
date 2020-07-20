@@ -1,2 +1,1 @@
-# Modpacks
-All of Ender's modpacks.
+A simple empty repository used as an issue tracker dfor my modpacks.
