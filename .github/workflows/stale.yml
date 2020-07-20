@@ -14,6 +14,6 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'Since this issue has gone inactive, a Stale label has been applied to your issue.'
-        stale-pr-message: 'Stale pull request message'
-        stale-issue-label: 'This Issue has gone inactive. Hopefully it will be looked at some time in the future.'
-        stale-pr-label: 'no-pr-activity'
+        stale-pr-message: ''
+        stale-issue-label: 'Inactive Issue'
+        stale-pr-label: ''
