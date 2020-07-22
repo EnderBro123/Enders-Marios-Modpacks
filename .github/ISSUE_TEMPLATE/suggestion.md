@@ -1,8 +1,8 @@
 ---
 name: Suggestion
-about: Suggest an idea for this project
+about: Suggest an idea for our projects.
 title: ''
-labels: Feature Reqqest, Suggestion
+labels: Suggestion
 assignees: ''
 
 ---
