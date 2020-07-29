@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Mod Version**
+**Modpack Version**
 Give us the version of the modpack(s) your having issues with.
 
 **Additional context**
