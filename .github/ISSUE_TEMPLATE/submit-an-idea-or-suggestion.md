@@ -3,7 +3,7 @@ name: Submit an Idea or Suggestion
 about: Suggest an idea for our projects.
 title: ''
 labels: Suggestion
-assignees: ''
+assignees: EnderBro123
 
 ---
 
