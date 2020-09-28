@@ -1,7 +1,7 @@
 ---
 name: Submit an Idea or Suggestion
 about: Suggest an idea for our projects.
-title: ''
+title: "[Suggestion] "
 labels: Suggestion
 assignees: EnderBro123
 

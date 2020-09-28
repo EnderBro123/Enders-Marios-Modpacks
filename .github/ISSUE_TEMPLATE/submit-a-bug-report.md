@@ -1,7 +1,7 @@
 ---
 name: Submit a Bug Report
 about: Something not working? Create a Bug Report to help us fix it!
-title: ''
+title: "[Bug] "
 labels: Bug Report
 assignees: EnderBro123
 
