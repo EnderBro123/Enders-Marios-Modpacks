@@ -32,7 +32,8 @@ Give us the version of the modpack(s) your having issues with.
 Add any other context about the problem here.
 
 **Checklist**
-Put an X in each of the [].
+Put an X in each of the [] if you agree with these 3 things.
+
 [] - I agree that I will not get any support from mods that have updated to 1.13x versions ad do not support 1.12.
 [] - I agree that I will not receive *ANY* support if I modified the modpack at all.
 [] - I followed the template and gave as much info as I could.
