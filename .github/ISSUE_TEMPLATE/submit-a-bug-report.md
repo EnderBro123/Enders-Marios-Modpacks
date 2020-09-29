@@ -33,6 +33,6 @@ Add any other context about the problem here.
 
 **Checklist**
 Put an X in each of the [].
-[] - I agree that I will not get any support for any unsupported 1.12 mods I'm having issues with.
+[] - I agree that I will not get any support from mods that have updated to 1.13x versions ad do not support 1.12.
 [] - I agree that I will not receive *ANY* support if I modified the modpack at all.
 [] - I followed the template and gave as much info as I could.
