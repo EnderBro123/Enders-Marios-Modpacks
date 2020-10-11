@@ -12,6 +12,11 @@ assignees: EnderBro123
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Have you attempted to read the crash report before opening this issue?**
+Put an X in Yes or No.
+[] Yes.
+[] No.
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
