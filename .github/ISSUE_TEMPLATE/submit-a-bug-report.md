@@ -13,9 +13,11 @@ assignees: EnderBro123
 A clear and concise description of what the bug is.
 
 **Have you attempted to read the crash report before opening this issue?**
-Put an X in Yes or No. If you select no, do not open a bug report here, and
-report the issue to the respective mod developer.
+Put an X in Yes or No. If you select no, then don't worry. I'll let you know
+where the issue is coming from, then your on your own from there.
+
 [] Yes.
+
 [] No.
 
 **USE PASTEBIN. DO NOT DIRECTLY UPLOAD THE CRASH REPORT FILE.**
@@ -40,6 +42,11 @@ Add any other context about the problem here.
 
 **Checklist**
 Put an X in each of the [] if you agree with these 3 things.
-[] - I agree that I will not get any support from mods that have updated to 1.13x versions ad do not support 1.12.
-[] - I agree that I will not receive *ANY* support if I modified the modpack at all.
+
+[] - I agree that I will not get any support from mods that 
+have updated to 1.13x versions and do not support 1.12.
+
+[] - I agree that I will not receive *ANY*
+support if I modified the modpack at all.
+
 [] - I followed the template and gave as much info as I could.
