@@ -49,4 +49,6 @@ have updated to 1.13x versions and do not support 1.12.
 [] - I agree that I will not receive *ANY*
 support if I modified the modpack at all.
 
+[] - I have read the Pinned Issue. (#6)
+
 [] - I followed the template and gave as much info as I could.
