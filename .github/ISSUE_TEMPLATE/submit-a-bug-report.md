@@ -3,7 +3,7 @@ name: Submit a Bug Report
 about: Something not working? Create a Bug Report to help us fix it!
 title: "[Bug] "
 labels: Bug Report
-assignees: EnderBro123
+assignees: ''
 
 ---
 
@@ -13,8 +13,7 @@ assignees: EnderBro123
 A clear and concise description of what the bug is.
 
 **Have you attempted to read the crash report before opening this issue?**
-Put an X in Yes or No. If you select no, then don't worry. I'll let you know
-where the issue is coming from, then your on your own from there.
+Put an X in Yes or No.
 
 [] Yes.
 [] No.
@@ -30,8 +29,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or Videos**
+If applicable, add screenshots or videos to help explain your problem.
 
 **Modpack Version**
 Give us the version of the modpack your having issues with.
@@ -40,9 +39,9 @@ Give us the version of the modpack your having issues with.
 Add any other context about the problem here.
 
 **Checklist**
-Put an X in each of the [] if you agree with these 3 things.
+Put an X in each of the [] if you agree with these 4 things.
 
-[] - I agree that I will not get any support from mods that have updated to 1.13x versions and do not support 1.12.
+[] - I agree that I will not get any support from mods that are dead/unsupported, or have updated to 1.13x versions and refuse to help with 1.12.
 [] - I agree that I will not receive *ANY* support if I modified the modpack at all.
 [] - I have read the Pinned Issue.
 [] - I followed the template and gave as much info as I could.
