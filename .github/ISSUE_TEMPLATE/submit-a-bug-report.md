@@ -43,5 +43,7 @@ Put an X in each of the [] if you agree with these 4 things.
 
 [] - I agree that I will not get any support from mods that are dead/unsupported, or have updated to 1.13x versions and refuse to help with 1.12.
 [] - I agree that I will not receive *ANY* support if I modified the modpack at all.
-[] - I have read the Pinned Issue.
+[] - I have read the README.md file.
 [] - I followed the template and gave as much info as I could.
+
+Missing sections will result in your report being closed and ignored.
