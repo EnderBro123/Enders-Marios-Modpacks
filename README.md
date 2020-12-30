@@ -15,4 +15,5 @@ Basically, the developers of these mods won't help anyone. **Do not** ask for he
 
 Any questions/support/issues related to them posted on to here will result in them being ignored, or your removal from our issue tracker.
 
-Even though I'm strict with exploit and issue reporting, I can still be a kind and loveable slime. Just follow our policy, and your good. No need for a big war to break out.
+Even though I'm strict with exploit and issue reporting, I can still be a kind and loveable slime.
+Just follow our policy, and your good. No need for a big war to break out.
