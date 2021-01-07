@@ -9,10 +9,6 @@ Do **NOT** modify any parts of my modpacks. Modified versions will **NOT** be su
 
 ***SUPPORT POLICY***
 
-All of our modpacks have many mods, but apparently a lot of these mods have developers that won't continue their mods, give support for 1.12 after updating to 1.13, or give their mods to others to keep them alive.
+All of my modpacks have many mods, but apparently a lot of these mods have developers that won't continue their mods, give support for 1.12 after updating to 1.13, or give their mods to others to keep them alive.
 
-Basically, **do not** ask for help with issues related to dead/unsupported mods. I'm **not** wasting my time with issues that I can't fix. This issue tracker is only meant for simple exploits or issues related to my modpacks. Take issues to their respective **active and helpful** developers.
-
-Any questions/support/issues related to dead/unsupported mods posted on to here will simply result in them being ignored and closed.
-
-Just follow our policy, and your good. No need for a big war to break out.
+Basically, **do not** ask for help with issues related to dead/unsupported mods. I'm **not** wasting my time with issues that I can't fix. This issue tracker is only meant for simple exploits or issues related to my modpacks. Take issues to their respective **active** developers. Any questions/support/issues related to dead/unsupported mods posted on to here will simply result in them being ignored and closed.
