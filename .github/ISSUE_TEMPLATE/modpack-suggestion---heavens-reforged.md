@@ -1,9 +1,9 @@
 ---
-name: Modpack Suggestion - Minecraft 1.18 - The Biomes and QoL Update
-about: Suggest an idea for Minecraft 1.18 - The Biomes and QoL Update.
+name: Modpack Suggestion - Heavens Reforged
+about: Suggest an idea for Heavens Reforged.
 title: ''
 labels: ''
-assignees: MagmaBro123
+assignees: ''
 
 ---
 
