@@ -2,9 +2,9 @@
 name: Submit a Bug Report - Heavens Reforged
 about: Something not working in Heavens Reforged? Create a Bug Report to help us fix
   it!
-title: "[Bug] "
-labels: ''
-assignees: ''
+title: ''
+labels: 'Modpack: Heavens Reforged, STATUS: Awaiting Response, TYPE: Bug Report'
+assignees: MagmaBro123
 
 ---
 

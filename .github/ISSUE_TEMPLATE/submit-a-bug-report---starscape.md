@@ -1,9 +1,9 @@
 ---
 name: Submit a Bug Report - Starscape
 about: Something not working in Starscape? Create a Bug Report to help us fix it!
-title: "[Bug] "
-labels: ''
-assignees: ''
+title: ''
+labels: 'Modpack: Starscape, STATUS: Awaiting Response, TYPE: Bug Report'
+assignees: MagmaBro123
 
 ---
 

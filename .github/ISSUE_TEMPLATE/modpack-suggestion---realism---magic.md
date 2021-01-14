@@ -2,8 +2,8 @@
 name: Modpack Suggestion - Realism & Magic
 about: Suggest an idea for Realism & Magic.
 title: ''
-labels: ''
-assignees: ''
+labels: 'Modpack: Realism & Magic, STATUS: Awaiting Response, TYPE: Suggestion'
+assignees: MagmaBro123
 
 ---
 

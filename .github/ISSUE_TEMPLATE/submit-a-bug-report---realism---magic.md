@@ -2,9 +2,9 @@
 name: Submit a Bug Report - Realism & Magic
 about: Something not working in Realism & Magic? Create a Bug Report to help us fix
   it!
-title: "[Bug] "
-labels: ''
-assignees: ''
+title: ''
+labels: 'Modpack: Realism & Magic, STATUS: Awaiting Response, TYPE: Bug Report'
+assignees: MagmaBro123
 
 ---
 

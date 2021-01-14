@@ -2,8 +2,8 @@
 name: Modpack Suggestion - Heavens Reforged
 about: Suggest an idea for Heavens Reforged.
 title: ''
-labels: ''
-assignees: ''
+labels: 'Modpack: Heavens Reforged, STATUS: Awaiting Response, TYPE: Suggestion'
+assignees: MagmaBro123
 
 ---
 

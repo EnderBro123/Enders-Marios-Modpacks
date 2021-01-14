@@ -2,7 +2,8 @@
 name: Modpack Suggestion - Minecraft 1.18 - The Biomes and QoL Update
 about: Suggest an idea for Minecraft 1.18 - The Biomes and QoL Update.
 title: ''
-labels: ''
+labels: 'Modpack: MC 1.18 - The Biomes and QoL Update, STATUS: Awaiting Response,
+  TYPE: Suggestion'
 assignees: MagmaBro123
 
 ---

@@ -2,9 +2,10 @@
 name: Submit a Bug Report - Minecraft 1.18 - The Biomes and QoL Update
 about: Something not working in Minecraft 1.18 - The Biomes and QoL Update? Create
   a Bug Report to help us fix it!
-title: "[Bug] "
-labels: ''
-assignees: ''
+title: ''
+labels: 'Modpack: MC 1.18 - The Biomes and QoL Update, STATUS: Awaiting Response,
+  TYPE: Bug Report'
+assignees: MagmaBro123
 
 ---
 
