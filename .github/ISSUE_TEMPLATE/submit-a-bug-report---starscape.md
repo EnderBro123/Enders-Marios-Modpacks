@@ -2,7 +2,7 @@
 name: Submit a Bug Report - Starscape
 about: Something not working in Starscape? Create a Bug Report to help us fix it!
 title: "[Bug] "
-labels: Bug Report
+labels: ''
 assignees: ''
 
 ---

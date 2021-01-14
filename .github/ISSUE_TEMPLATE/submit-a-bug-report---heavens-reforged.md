@@ -3,7 +3,7 @@ name: Submit a Bug Report - Heavens Reforged
 about: Something not working in Heavens Reforged? Create a Bug Report to help us fix
   it!
 title: "[Bug] "
-labels: Bug Report
+labels: ''
 assignees: ''
 
 ---

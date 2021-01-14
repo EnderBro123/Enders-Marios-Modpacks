@@ -3,7 +3,7 @@ name: Submit a Bug Report - Realism & Magic
 about: Something not working in Realism & Magic? Create a Bug Report to help us fix
   it!
 title: "[Bug] "
-labels: Bug Report
+labels: ''
 assignees: ''
 
 ---
