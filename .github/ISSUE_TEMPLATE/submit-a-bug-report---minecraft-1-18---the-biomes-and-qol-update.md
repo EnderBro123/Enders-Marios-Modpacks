@@ -1,6 +1,7 @@
 ---
 name: Submit a Bug Report - Minecraft 1.18 - The Biomes and QoL Update
-about: Something not working? Create a Bug Report to help us fix it!
+about: Something not working in Minecraft 1.18 - The Biomes and QoL Update? Create
+  a Bug Report to help us fix it!
 title: "[Bug] "
 labels: Bug Report
 assignees: ''

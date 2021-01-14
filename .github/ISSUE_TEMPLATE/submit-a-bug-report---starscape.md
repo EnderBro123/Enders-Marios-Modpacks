@@ -1,7 +1,6 @@
 ---
-name: Submit a Bug Report - Heavens Reforged
-about: Something not working in Heavens Reforged? Create a Bug Report to help us fix
-  it!
+name: Submit a Bug Report - Starscape
+about: Something not working in Starscape? Create a Bug Report to help us fix it!
 title: "[Bug] "
 labels: Bug Report
 assignees: ''
