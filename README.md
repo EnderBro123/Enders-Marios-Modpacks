@@ -5,5 +5,5 @@ more info. Pull Requests are not accepted, and will be ignored/closed. This is o
 
 ***The Magma Grounds Modpack License***
 
-Do **NOT** modify any parts of my modpacks. Modified versions will **NOT** be supported.
+Do **NOT** modify *any* parts of my modpacks. Modified versions will **NOT** be supported.
 Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
