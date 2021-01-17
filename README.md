@@ -12,6 +12,5 @@ Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
 **Useful Pages**
 
 * Use our Issues section for bug reports and suggestions.
-* Use our Projects Section for keeping track of unfixed issues.
-* Use the Discussions tab for chatting and sharing ideas about 
-my projects. Please make sure to read the pinned discussion.
+* Use our Projects section for keeping track of issues.
+* Use our Discussions tab for chatting and sharing ideas about my projects. Please read the pinned discussion.
