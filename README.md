@@ -13,7 +13,7 @@ Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
 
 * Use our Issues section for bug reports and suggestions.
 * Use our Projects section for keeping track of issues.
-* Use our Discussions tab for chatting and sharing ideas about my projects. Please read the pinned discussion.
+* Use our Discussions tab for chatting and sharing ideas about my projects.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
