@@ -22,13 +22,13 @@ Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
 * Do not post in the wrong category.
 * Do not post official suggestions in our Issue/Suggestions Tracker. Share your idea in our Discussions tab first, and if it gets a lot of attension, then feel free to post it in our Issue/Sugestions Tracker.
 
-Failure to follow these rules will result in a warning. Reaching 3 warnings will result in your removal from our repository.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 **Issue/Suggestions Tab rules/guidelines:**
 
 * Do not open unessecery and/or random issues.
 * Do not open issues/suggestions without filling the whole template out.
-* Do not abuse our issues/suggestions system. By joining ouur GitHub, you abide to GitHub's community guidelines.
-https://docs.github.com/articles/github-community-guidelines
+* Do not abuse our issues/suggestions system.
+
+By joining ouur GitHub, you abide to GitHub's community guidelines.
+https://docs.github.com/articles/github-community-guidelines.
+
+Failure to follow these rules will result in a warning. Reaching 3 warnings will result in your removal from our repository.
