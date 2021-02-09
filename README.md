@@ -28,7 +28,4 @@ Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
 * Do not open Issues/Suggestions without filling the whole template out.
 * Do not abuse our Issues/Suggestions and Discussions system.
 
-By joining ouur GitHub, you abide to GitHub's community guidelines.
-https://docs.github.com/articles/github-community-guidelines.
-
-Failure to follow these rules will result in a warning. Reaching 3 warnings will result in your removal from our repository.
+By joining ouur GitHub, you abide to GitHub's community guidelines. https://docs.github.com/articles/github-community-guidelines. Failure to follow these rules will result in a warning. Reaching 3 warnings will result in your removal from our repository.
