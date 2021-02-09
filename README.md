@@ -25,8 +25,8 @@ Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
 **Issue/Suggestions Tab rules/guidelines:**
 
 * Do not open unessecery and/or random issues.
-* Do not open issues/suggestions without filling the whole template out.
-* Do not abuse our issues/suggestions system.
+* Do not open Issues/Suggestions without filling the whole template out.
+* Do not abuse our Issues/Suggestions and Discussions system.
 
 By joining ouur GitHub, you abide to GitHub's community guidelines.
 https://docs.github.com/articles/github-community-guidelines.
