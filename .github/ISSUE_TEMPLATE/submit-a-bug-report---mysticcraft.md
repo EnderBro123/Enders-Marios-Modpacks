@@ -7,9 +7,18 @@ assignees: MagmaBro123
 
 ---
 
+***DO NOT REMOVE THIS TEMPLATE OR YOUR ISSUE WILL BE CLOSED AND IGNORED.***
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Have you attempted to read the crash report before opening this issue?**
+Put an X in Yes or No.
+
+[] Yes.
+[] No.
+
+**USE PASTEBIN. DO NOT DIRECTLY UPLOAD THE CRASH REPORT FILE.**
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
@@ -20,19 +29,21 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or Videos**
+If applicable, add screenshots or videos to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Modpack Version**
+Give us the version of the modpack your having issues with.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Checklist**
+Put an X in each of the [] if you agree with these 4 things.
+
+[] - I agree that I will not get any support from mods that are dead/unsupported, or have updated to 1.13x versions and refuse to help with 1.12.
+[] - I agree that I will not receive *ANY* support if I modified the modpack at all.
+[] - I have read the README.md file.
+[] - I followed the template and gave as much info as I could.
+
+Missing sections will result in your report being closed and ignored.
