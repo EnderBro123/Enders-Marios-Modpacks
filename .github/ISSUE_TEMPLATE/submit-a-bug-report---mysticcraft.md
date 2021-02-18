@@ -2,7 +2,7 @@
 name: Submit a Bug Report - MysticCraft
 about: Something not working in MysticCraft? Create a Bug Report to help us fix it!
 title: ''
-labels: ''
+labels: 'Modpack: MysticCraft, STATUS: Awaiting Response, TYPE: Bug Report'
 assignees: MagmaBro123
 
 ---
