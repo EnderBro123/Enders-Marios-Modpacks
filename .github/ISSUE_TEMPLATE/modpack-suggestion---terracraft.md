@@ -1,8 +1,8 @@
 ---
-name: Modpack Suggestion - MysticCraft
-about: Suggest an idea for MysticCraft.
+name: Modpack Suggestion - TerraCraft
+about: Suggest an idea for TerraCraft.
 title: ''
-labels: 'Modpack: MysticCraft, STATUS: Awaiting Response, TYPE: Suggestion'
+labels: 'Modpack: TerraCraft, STATUS: Awaiting Response, TYPE: Suggestion'
 assignees: MagmaBro123
 
 ---
@@ -20,4 +20,4 @@ A clear and concise description of any alternative solutions or features you've 
 Add any other context or screenshots about the feature request here.
 
 **Checklist:**
-[] - I have posted my idea in the Discussions tab first, and is agreed upon by other users.
+[] - I have posted my idea in the Discussions tab and is agreed upon by other users.
