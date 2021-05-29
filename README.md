@@ -8,7 +8,7 @@ Do **NOT** modify *any* parts of my modpacks.
 
 **FOR THE IMPAINTENT PEOPLE:**
 
-If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me dfoing so, since I'm a bit slow-ish), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself.
+If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself, however if they're lazy nd refuse to help you, then do *not* complain to either of us.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
