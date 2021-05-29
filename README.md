@@ -33,4 +33,3 @@ Asking for any help with either of these will result in an instant ban from our 
 
 * Do not open unessecery and/or random issues.
 * Do not open Issues/Suggestions without filling the whole template out.
-* Do not abuse our Issues/Suggestions and Discussions system.
