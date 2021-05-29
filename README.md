@@ -24,7 +24,7 @@ Asking for any help with either of these will result in an instant ban from our 
 * Issues caused by Dead/Unsupported mods will ***NOT*** be helped with.
 * Asking for any help with these will result in an instant ban from our repository and Discord.
 
-**/Suggestions Tab Rules**
+**Suggestions Tab Rules**
 
 * Do not post in the wrong category.
 * Do not post official suggestions in our Issue/Suggestions Tracker. Share your idea in our Discussions tab first, and if it gets a lot of attension, then feel free to post it in our Issue/Sugestions Tracker. You will be asked to agree if you've done so. *Do not lie.*
