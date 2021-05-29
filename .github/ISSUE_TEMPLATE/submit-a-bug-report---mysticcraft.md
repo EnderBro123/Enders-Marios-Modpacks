@@ -8,6 +8,7 @@ assignees: MagmaBro123
 ---
 
 ***DO NOT REMOVE THIS TEMPLATE OR YOUR ISSUE WILL BE CLOSED AND IGNORED.***
+***Missing sections will result in your report being closed and ignored.***
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -33,7 +34,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots or videos to help explain your problem.
 
 **Modpack Version**
-Give us the version of the modpack your having issues with.
+Give us the version of Mystic Craft your having issues with. **(DO NOT SAY "LATEST")**
 
 **Additional context**
 Add any other context about the problem here.
@@ -45,5 +46,3 @@ Put an X in each of the [] if you agree with these 4 things.
 [] - I agree that I will not receive *ANY* support if I modified the modpack at all.
 [] - I have read the README.md file.
 [] - I followed the template and gave as much info as I could.
-
-Missing sections will result in your report being closed and ignored.
