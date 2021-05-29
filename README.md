@@ -1,11 +1,10 @@
 A repository used as a bug tracker for Magma's modpacks. Pull Requests are not accepted, and will be ignored/closed.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Do **NOT** modify *any* parts of my modpacks.
 
-***The Magma Grounds Modpack License***
-
-Do **NOT** modify *any* parts of my modpacks. Modified versions will **NOT** be supported.
-Issues caused by Inactive and/or Unsupported mods will **NOT** be helped with.
+Modified and/or Outdated versions will **NOT** be supported.
+Issues caused by Dead/Unsupported mods will **NOT** be helped with.
+Asking for any help with either of these will result in an instant ban from our repository.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
