@@ -2,9 +2,13 @@ A repository used as a bug tracker for Magma's modpacks. Pull Requests are not a
 
 Do **NOT** modify *any* parts of my modpacks.
 
-Modified and/or Outdated versions will **NOT** be supported.
-Issues caused by Dead/Unsupported mods will **NOT** be helped with.
-Asking for any help with either of these will result in an instant ban from our repository.
+* Modified and/or Outdated versions will **NOT** be supported.
+* Issues caused by Dead/Unsupported mods will **NOT** be helped with.
+* Asking for any help with either of these will result in an instant ban from our repository.
+
+**FOR THE IMPAINTENT PEOPLE:**
+
+If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me dfoing so, since I'm a bit slow-ish), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
