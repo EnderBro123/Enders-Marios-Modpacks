@@ -1,4 +1,4 @@
-A repository used as a bug tracker for Magma's modpacks. Pull Requests are not accepted, and will be ignored/closed. This is only for bug tracking.
+A repository used as a bug tracker for Magma's modpacks. Pull Requests are not accepted, and will be ignored/closed.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
