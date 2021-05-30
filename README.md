@@ -20,4 +20,4 @@
 
 **FOR THE IMPAINTENT PEOPLE:**
 
-If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself, however if they're lazy and refuse to help you, then do *not* complain to either of us.
+If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself, however if they're lazy and refuse to help you due to them updating to 1.13x versions, then do **not** complain to us or them.
