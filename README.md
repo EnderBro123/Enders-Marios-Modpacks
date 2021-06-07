@@ -20,7 +20,7 @@
 * Modified and/or Outdated versions of my modpacks will ***NOT*** be supported.
 * Issues caused by Dead/Unsupported mods will ***NOT*** be helped with.
 
-*Asking for any help with any of these will result in an instant ban from our GitHub and Discord. If people are lazy and won't help/keep their projects updated, then I can't do anything about the issues their mod(s) cause.*
+*Asking for any help with any of these will result in an instant ban from our GitHub and Discord. If people are lazy and won't help/keep their projects updated, then I can't do anything about the issues their mod(s) cause, I can't report issues to dead mods anyways.*
 
 **FOR IMPAINTENT PEOPLE:**
 
