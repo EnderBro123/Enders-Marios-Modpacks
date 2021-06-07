@@ -20,13 +20,11 @@
 * Modified and/or Outdated versions of my modpacks will ***NOT*** be supported.
 * Issues caused by Dead/Unsupported mods will ***NOT*** be helped with.
 
-*Asking for any help with any of these will result in an instant ban from our GitHub and Discord. If people are lazy and won't help/keep their projects updated, then I can't do anything about the issues their mod(s) cause, I can't report issues to dead mods anyways.*
+*Asking for any help with any of these will result in an instant ban from our GitHub and Discord. If people are lazy and/or too busy IRTL and won't help/keep their projects updated, then I can't do anything about the issues their mod(s) cause.
 
 **FOR IMPAINTENT PEOPLE:**
 
 If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective and **Active** mod developer(s) yourself.
-
-Do **not** get mad at me about me saying the word *Lazy*. Some mod developers are quite mean (Sometimes the ones that have dead/unsupported mods) and I have no control over it.
 
 **FOR DEVELOPERS WHO WANT TO HELP (And are ok with the mean-ish README (Doubt it.):**
 
