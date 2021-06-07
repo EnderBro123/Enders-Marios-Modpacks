@@ -28,7 +28,7 @@ If you want any issues that you encounter within my modpacks to be fixed quickly
 
 Do **not** get mad at me about me saying the word *Lazy*. Some mod developers are quite mean (Sometimes the ones that have dead/unsupported mods) and I have no control over it.
 
-**FOR DEVELOPERS WHO WANT TO HELP (And are ok with the mean-ish README (Doubt it.):
+**FOR DEVELOPERS WHO WANT TO HELP (And are ok with the mean-ish README (Doubt it.):**
 
 * Fix issues caused by dead/unsupported mods
 * Help with fixing bugs from mods that are still active
