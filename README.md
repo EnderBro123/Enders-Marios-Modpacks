@@ -25,3 +25,5 @@
 **FOR IMPAINTENT PEOPLE:**
 
 If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what yu did to solve said bug/crash. You can also optionally report the issue/bug to the respective mod developer(s) yourself, however if they refuse to help you due to them updating past 1.12 or if they're just being lazy, then do **not** complain.
+
+Do **not** get mad at me about me saying the word Lazy constantly. Some mod developers are quite mean (Ones that have dead/unsupported mods) and I have no control over it.
