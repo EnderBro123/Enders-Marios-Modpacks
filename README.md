@@ -3,7 +3,6 @@
 **Useful Pages**
 
 * Use our Issues section for bug reports and suggestions.
-* Use our Projects section for keeping track of issues.
 * Use our Discussions tab for chatting and sharing ideas about my projects.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
