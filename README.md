@@ -10,13 +10,12 @@
 
 ***RULES:***
 
-
 **Our GitHub:**
 * Do not post in the wrong Discussions category.
 * Do not post official suggestions in our Issue/Suggestions Tracker. Share your idea in our Discussions tab first, and if it gets a lot of attension, then feel free to post it in our Issue/Sugestions Tracker. You will be asked to agree if you've done so. *Do not lie.*
 * Do not open unnecessary and/or random issues.
 
-While playing:**
+**While Playing:**
 * Do **NOT** modify *any* parts of my modpacks.
 * Modified and/or Outdated versions of my modpacks will ***NOT*** be supported.
 * Issues caused by Dead/Unsupported mods will ***NOT*** be helped with.
