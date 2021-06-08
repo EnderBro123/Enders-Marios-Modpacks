@@ -15,7 +15,7 @@
 * Do not open unnecessary and/or random issues.
 
 **While Playing:**
-* Do **NOT** modify *any* parts of my modpacks.
+* Do **NOT** modify any parts of my modpacks.
 * Modified and/or Outdated versions of my modpacks will ***NOT*** be supported.
 * Issues caused by Dead/Unsupported mods will ***NOT*** be helped with.
 
