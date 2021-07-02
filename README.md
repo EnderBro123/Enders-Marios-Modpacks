@@ -23,7 +23,7 @@
 
 **FOR IMPAINTENT PEOPLE:**
 
-If you want any issues that you encounter within my modpacks to be fixed quickly (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lifes outside of Minecraft)), try figuring out the issue yourself and open a Bug Report explaining what you did to solve said bug/crash. You can also optionally report the issue/bug to the respective and **Active** mod developer(s) yourself.
+If for whatever reason your too lazy to wait for any issues that you encounter within my modpacks to be fixed (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lives outside of Minecraft)), you can either try to out the issue yourself and open a Bug Report explaining what you did to solve said bug/crash. You can also optionally report the issue/bug to the respective and **Active** mod developer(s) yourself.
 
 **FOR DEVELOPERS WHO WANT TO HELP (And are ok with the mean-ish README (Doubt it.):**
 
