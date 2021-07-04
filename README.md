@@ -25,7 +25,7 @@
 
 If for whatever reason your too lazy to wait for any issues that you encounter within my modpacks to be fixed, you can either try to figure out the issue yourself and open a Bug Report explaining what you did to solve said bug/crash or, (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lives outside of Minecraft)) you can also report the issue/bug to the respective and **Active** mod developer(s) yourself. If they refuse to help, then don't come back here shitposting and wining about it.
 
-**FOR DEVELOPERS WHO WANT TO HELP (And are ok with the mean-ish README (Doubt it.):**
+**FOR THOSE WHO WANT TO HELP (And are ok with the mean-ish README):**
 
 * Fix issues caused by dead/unsupported mods
 * Help with fixing bugs from mods that are still active
