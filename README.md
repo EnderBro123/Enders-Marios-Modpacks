@@ -12,7 +12,7 @@
 **Our GitHub:**
 * Do not post in the wrong Discussions category.
 * Do not post official suggestions in our Issue/Suggestions Tracker. Share your idea in our Discussions tab first, and if it gets a lot of attension, then feel free to post it in our Issue/Sugestions Tracker. You will be asked to agree if you've done so. *Do not lie.*
-* Do not open unnecessary and/or random issues/discussions or do any type of shitposting. It's uneeded and annoying.
+* Do not open unnecessary/random issues/discussions or do any type of shitposting. It's uneeded and annoying.
 
 **While Playing:**
 * Do **NOT** modify any parts of my modpacks.
@@ -23,7 +23,7 @@
 
 **FOR IMPAINTENT PEOPLE:**
 
-If for whatever reason your too lazy to wait for any issues that you encounter within my modpacks to be fixed, you can either try to figure out the issue yourself and open a Bug Report explaining what you did to solve said bug/crash or, (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lives outside of Minecraft)) you can also report the issue/bug to the respective and **Active** mod developer(s) yourself. If they refuse to help, then don't come back here shitposting and wining about it.
+If for whatever reason your too lazy to wait for any issues that you encounter within my modpacks to be fixed, you can either try to figure out the issue yourself and open a Bug Report explaining what you did to solve said bug/crash or, (Rather then me doing so, since I'm a bit slow-ish sometimes (We all have lives outside of Minecraft)) you can also report the issue/bug to the respective and **Active** mod developer(s) yourself.
 
 **FOR THOSE WHO WANT TO HELP (And are ok with the mean-ish README):**
 
